@@ -1,0 +1,42 @@
+
+<html>
+    <head>
+        <title>Leg Workouts</title>
+    </head>
+    <BODY>
+        <center><h1 style="background-color:black;color:cornsilk;">Leg Workouts</h1></center>
+       
+        <br>
+        <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 25px;">
+            "Leg day"—the very phrase conjures up images of nausea, days of hobbling, and legs that feel like jello. The feelings may be universal, but bodybuilders looking to annihilate legs have countless workout options at their disposal. While most workouts start with some variation of the squat—widely acclaimed as the best lower-body movement—exercise choice, foot position, and advanced training techniques all allow you to emphasize one particular area of the legs over others. That's great if you want to thicken up your quads, fill out your glutes, or beef up your hamstrings because of a weakness—or simply because you want to prioritize an area for a length of time.<br><br>
+Each of the seven leg workouts below has a different focus. Find one that suits your needs for the next 4-8 weeks before switching to another specialized program.
+</p>
+<img src="https://wallpapercave.com/wp/wp2639570.png" style="background-repeat: no-repeat;background-size: cover;height: 100%;width: 100%;">
+                           
+<h2><left>The Barbell Back Squat</left></h2><br>
+<img src="back squat.jpeg"style="margin-left:400px;"><br>
+<p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">Sure, there are other variations of this exercise out there (more on that shortly)—but when you say the word "squat" to just about any lifter, they're probably going to assume you're talking about this one. The back squat is a classic for a reason: there are few better, simpler ways to train the major muscle groups of your legs. The exercise is also an entry point to other variations, so it helps to get the OG form down pat.</p>
+<h2><left>Front Squat</left></h2><br>
+<img src="front squat.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">As we previously stated, there are an endless variety of barbell squat variations. Few, if any, will give you more bang for your buck than the front squat. The front-loaded nature of the move is going to push you to develop shoulder, ankle and hip mobility, and here’s the best part of all: Your entire core has to be firing the entire time to protect your spine and make the move possible. It’s an ab workout wrapped in a leg workout.</p>
+    <h2><left>Deadlift</left></h2><br>
+    <img src="deadlift.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">Consider this the king of all posterior chain-focused exercises, and a great way to pack muscle onto your entire body. Whether you’re doing it sumo style, conventionally, or with a trap bar (a underrated deadlifting method and one of the best ways to do it), you’ll be hammering your core, training your back and your forearms more than you think, and, most importantly, you’ll be challenging your hamstrings and glutes with serious load. This is destined to be your strongest lift in the gym.</p>
+    <h2><left>Kettlebell Swing</left></h2><br>
+    <img src="kettlebell swing.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">First off, it’s fun to swing a weight around. Secondly, when you do it with a good-form kettlebell swing, you’re hammering your core, driving your heart rate through the roof — and piling size, strength, and power into your hamstrings and glutes. A well-done kettlebell swing builds serious lower-body explosiveness, and the oomph you get from it translates beyond the weight room, too, adding to your vertical leap, broad jump, and other more athletic moves. This one’s a must-have in your leg day library.</p>
+    <h2><left>Walking Lunge</left></h2><br>
+    <img src="walking lunge.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">That’s right: We’re not falling in love with the stationary lunge too early. The walking variation is superior due to the fact that the trail leg can “step through” to the next rep. That trains the glutes more effectively and keeps the lift more dynamic in nature. On top of this, the knees take less stress forces due to less need to constantly start and stop or change direction. Start by learning basic lunge mechanics, which you can do right here.</p>
+    <h2><left>Goblet Squat</left></h2><br>
+    <img src="goblet squat.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">Consider this move your ultimate squat tutor. If you’re struggling to achieve good squat depth or keep your torso in the proper upright position, doing goblet squats is a perfect way to solve those issues. You’ll learn good mechanics, and start to understand your ideal body position for a squat. One more secret, too: Holding that heavy weight high in a goblet squat will fire up your core a ton too.</p>
+    <h2><left>Bulgarian Split Squat</left></h2><br>
+    <img src="bulgarian split squat.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">Few exercises build leg strength while simultaneously challenge your balance and your leg mobility as much as Bulgarian split squats. Elevating your rear foot onto a box or bench instantly creates a challenging stretch for your quads and hip flexors on your back leg, and it places more of a balance challenge on both your front leg and your hips. It’s a great way to build mobility toward a deeper squat. Overall, you’ll smoke your quads and glutes while also sparing yourself unwanted back pain.</p>
+    <h2><left>Leg Press</left></h2><br>
+    <img src="leg press.jpeg"style="margin-left:400px;"><br>
+    <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 20px;">Sure, you want to ostracize this movement as being “not functional enough”, consider the tremendous benefits. First, it’s a great way to hit the quads with plenty more isolation than most squat variations can deliver. More importantly, it’s a joint-saving lift for lifters with their share of battle scars (think back, hip, and knee issues. Should the leg press be the backbone of your workout? Should you load it up with titanic amounts of weight and ego-lift? No. But don’t run away from the machine, either.
+
+    </p>
+    </BODY></html>

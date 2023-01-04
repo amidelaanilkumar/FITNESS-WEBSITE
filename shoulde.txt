@@ -1,0 +1,89 @@
+<html>
+    <head><title>Shoulder</title></head>
+    <body>
+        <h1 style="background-color:black;color:cornsilk;"><center>Shoulder</center></h1>
+        <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 25px;">
+            Few muscle groups are as involved in your day-to-day training as your shoulders. They play a key role in fundamental chest exercises like bench presses and pushups, and they play an underrated row on back day, teaming with other back muscles when you do dumbbell or barbell rows. They also stabilize weights more than you think during squat and lunge variations, and they act as key stabilizers during biceps and triceps isolation exercises.<br><br>
+That's a lot of responsibility on a relatively small group of muscles—and that's why shoulder training requires so much subtlety. It's easy to overtrain your shoulders, because even when you're not expressly targeting them, they're still getting plenty of work. <br><br>
+</p>
+<img src="https://bodybuilding-wizard.com/wp-content/uploads/2015/02/anatomy-of-the-shoulder-muscles-2-2.jpg" style="background-size: cover;background-repeat: no-repeat;height:537px;width:790px;margin-left: 200px;">
+<p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+margin-left: 50px;text-align: left;">
+It's also easy to create imbalances in your shoulders, partly because the shoulder joint can get "pulled" in so many directions. Tight chest muscles in particular can "pull" your shoulders forward, wrecking your posture, and inviting injuries, and other muscles can influence the joint too.
+That's why you need to be smart with your shoulder exercises, programming careful, smart moves instead of over-developing your delts with one or two exercises on repeat in every session. Shoulder workouts require caution, and really, you can isolate your shoulders with less frequency than many of your larger muscle groups. Yes, you should attack legs multiple times a week, and you should train your back often. And you know you can (and should!) activate your core muscles in every single workout and every single day. <br><br>
+
+
+</p>
+<h1 style="background-color:black;color:cornsilk;"><center>Shoulder Workouts</center></h1>
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+        This list of exercises includes both kinds of movements. You'll target smaller stabilizing muscles with some exercises. Other exercises will help you build the visible boulder shoulders you want. It's the best of both worlds, and a perfect starting point if you're looking to add shoulder size safely.
+</div>
+<h3><ul>
+    <li> <a href="#barbell overhead shoulder press">Barbell Overhead Shoulder Press</a></li>
+    <li> <a href="#seated dumbell shoulder press">Seated Dumbbell Shoulder Press</a></li>
+    <li><a href="#front raise">Front Raise</a></li>
+    <li><a href="#reverse pec deck fly">Reverse Pec Deck Fly</a></li>
+    <li><a href="#bent over dumbell lateral raise">Bent-Over Dumbbell Lateral Raise</a></li></ul></h3><br>
+    <img src="https://wallpapercave.com/wp/wp2639532.jpg" style="background-repeat: no-repeat;background-size: cover;height: 100%;width: 100%;">
+   
+
+    <h2 id="barbell overhead shoulder press" style="background-color: rgb(231, 238, 208);color: rgb(94, 35, 142);">Barbell Overhead Shoulder Press:</h2>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+        A barbell overhead shoulder press (aka barbell standing shoulder press) works not just your shoulders, but most of your body. That makes it a terrific core strengthener and mass builder, among other things. To start.<br>
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;margin-left:75px;">
+       <img src="barbell overhead shoulder press(s).jpeg"style="margin-left:400px;border-color:rgb(231, 238, 208);" border="4"><br>
+            <ol> <li>	Put your feet at shoulder-width, and tighten your core as you hold a barbell at your shoulders, palms facing forward.</li>
+        <li>	Next, push the bar upward and squeeze your shoulder blades together at the peak.</li>
+        <li>	Lower steadily and carefully.</li></ol></div>
+    </p>            
+        <h2 id="seated dumbell shoulder press" style="background-color:  rgb(231, 238, 208);color: rgb(94, 35, 142);">Seated Dumbbell Shoulder Press:</h2>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+        A proper deltoid workout simply isn’t complete without the seated dumbbell shoulder press. In fact, some say this exercise routine is an entire deltoid regimen unto itself, targeting the anterior, lateral, and posterior deltoid muscles (with an emphasis on the middle delts). Meanwhile, lifting two separate dumbbells (as opposed to using a machine) prevents you from using one side of your body over the other, thereby retaining firmer balance and distribution. Naturally, a fair amount of coordination is required to pull this one off, especially when you increase the weights. <br><br>
+    
+       <b> To perform a seated dumbbell shoulder press,</b> <br><br>
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;margin-left:75px;">
+        <img src="seated dumbell shoulder press(s).jpeg"style="margin-left:400px;border-color:rgb(231, 238, 208);" border="4"><br>
+            <ol><li>	Sit on a low-back bench and hold a dumbbell in each hand at the shoulder level, palms facing forward.</li>
+        <li>	Keeping your head and spine perfectly straight, lift the dumbbells overhead toward one another, stopping just short of having them touch at the top.</li>
+        <li>	Hold the position for a few seconds and then carefully reverse course. Repeat.</li></ol></div>
+    </p>  <hr>
+    <img src="https://fsb.zobj.net/crop.php?r=kEDlH4nduFPS0pzSBTiyF8I5Ur-XBDpgJlRhoyrKcuW6Gi8INvy4OPUpoLimNoiWarCUU0HNRUxrST-nnWfOkpc8AXfyBasMpbBLS5STzoKIw8g8lL6FVL8QYaUv-xlQZkuSmGCxwJ6ZXS5l" style="background-repeat: no-repeat;background-size: cover;margin-left: 300px;" >        
+        <h2 id="front raise" style="background-color:  rgb(231, 238, 208);color: rgb(94, 35, 142);">Front Raise:</h2>
+        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+    
+        You can use either a weight plate or barbell for this shoulder exercise, which targets the anterior delts. No matter what you decide to use, prepare for a seriously intense workout that brings no shortage of healthy pain. For that reason, don’t max out on the weight, as it will quickly turn healthy pain into unhealthy injury. <br><br>
+    
+       <b>To execute,</b> <br><br>
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;margin-left:75px;">
+       <img src="front raise(s).jpeg"style="margin-left:400px;border-color:rgb(231, 238, 208);" border="4"><br>
+            <ol> <li>	Keep your hands at hip height as you hold the weight in front of you.</li>
+        <li>	Your feet should be even with your shoulders and your core should be tight.</li>
+        <li>  Next, retract your shoulder blades and keep your arms straight as you lift the weight to shoulder level.</li>
+        <li>	Breathe steadily and lower the weight carefully.</li>
+        <li>	Repeat.</li></ol></div>
+    </p>            
+        <h2 id="reverse pec deck fly" style="background-color:  rgb(231, 238, 208);color: rgb(94, 35, 142);">Reverse Pec Deck Fly:</h2>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+        This shoulder exercise targets your posterior delts and requires a pec deck machine. To start, <br><br>
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;margin-left:75px;">
+        <img src="reverse pec deck fly(s).jpeg"style="margin-left:400px;border-color:rgb(231, 238, 208);" border="4"><br>
+            <ol><li>	Face the machine, and position the seat so that the handles are at shoulder level on either side.</li>
+        <li>	Next, hold the handles with your palms facing inward.</li>
+        <li>	Tighten your torso and extend your arms out to the side, pushing through all the way.</li>
+        <li>	Responsibly return to the starting position.</li>
+        <li>	Repeat.</li></ol></div>
+    </p>            
+    
+        <h2 id="bent over dumbell lateral raise" style="background-color: rgb(231, 238, 208);color: rgb(94, 35, 142);">Bent-Over Dumbbell Lateral Raise:</h2>
+        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 100px;">
+            This wildly effective shoulder exercise targets your middle deltoids, though it also builds upon your overall physique. You can perform it in either a standing (bent-over) or seated position. <br><br>
+    <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;margin-left:75px;">
+        <img src="bent over dumbell lateral raise(s).jpeg"style="margin-left:400px;border-color:rgb(231, 238, 208);" border="4"><br> 
+        <ol>  <li>	Start with a dumbbell in each hand, keeping your chest up, your back flat, your knees slightly bent, and your eyes focussed toward a fixed point on the floor.</li>
+            <li>	Now, bend over until your core is basically parallel with the ground, and hang the dumbbells directly underneath you, all while keeping your elbows in a slightly bent position.</li>
+            <li>	Next, raise both dumbbells up and out to your sides, forming an arc until your upper arms are even with your torso.</li>
+            <li>	Take a brief pause at the top before lowering the dumbbells back into starting position.</li>
+            <li>	Repeat.</li></ol></div>
+    </p>                      
+</body></html>
+

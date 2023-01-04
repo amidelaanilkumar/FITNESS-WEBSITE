@@ -1,0 +1,162 @@
+<html>
+    <head>
+        <title>CHEST</title>
+    </head>
+    <BODY>
+        <center><h1><div style="background-color:black;color:cornsilk;" >CHEST</div></h1></center>
+       
+        <br>
+    
+        <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 25px;">
+            
+                Mondays are renowned in the hardcore workout world as<a href="chest day.html" target="_blank" > International Chest Day</a>.
+                Meatheads everywhere kick off the training week with set after set of barbell bench press reps 
+                to build up their barrel-shaped bodies,grunting and straining to beat their buddies to being strong enough to
+                push the next set of plates. But then, they leave the weight room without hitting a single other implement
+                (unless they're heading to the squat rack for a long round of biceps curls, of course).</p>
+                <img src="https://cdn.muscleandstrength.com/sites/default/files/chest_feature.jpg"  style=" background-repeat: no-repeat; background-size:cover; height:500px; width:800px;margin-left: 200px;">
+                
+    
+                <br>
+                    
+                    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                    margin-left: 50px;text-align: left;">We're mostly joking about that type of workout, but there are some kernels of truth in the telling.
+                 Pushing big weight (and working your way up to pushing big weight) is a worthy endeavor and a great way to stay motivated, 
+                 but you shouldn't feel limited to only training your major mirror muscles using that single narrow-minded protocol.
+                 <br> <br> 
+
+                There's more to training your chest than just doing presses and pec deck reps until your back fuses with the surface of the platform beneath you
+                (hint: you shouldn't only be doing exercises with your back supported by a bench).
+                By just staying within those comfortable realms, you're spurning all of the potential benefits that other moves could offer.
+                You want to stimulate your muscles in different ways, so you can challenge them to adapt and grow as your training plan progresses. 
+                For that, you'll need variety.
+                 <br> <br> <br>
+
+
+                You can train your chest at home or in a pinch with bodyweight moves like pushup variations, feature chest-centric movements in broader
+                full-body workouts to spread the workload, and if you feel like you're lagging, even ramp up the volume beyond the Monday standard with 
+                multiple sessions dedicated to chest in a week. <br> <br> <br>
+
+
+                  Here are some of the best chest exercises to do just that. Choose two or three to work into your routine, and for best results, 
+                  rotate in new movements every 3 or 4 weeks.
+                   Just remember, there's nothing wrong with a big bench for your chest—as long as your workout doesn't start and end there.
+                   <br> <br></p>
+                   <h1 style="background-color:black;color:cornsilk;"><center>The Best Chest Exercises </center></h1>
+                   <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+                       If you have access to a gym, you can knock out any of the following exercises. The chest is huge, though, and prone to muscle pulls,
+                       so make sure you spend time adequately warming up and easing into heavy lifts. You don’t want to shoot for a bench press record on your first set.
+                       We recommend five to 10 minutes of stretching combined with some light resistance bands (more on that later) and simple push-ups to get the blood flowing.
+           
+                       <p> With chest exercises, safety should be a priority. Many of these have you hoisting hundreds of pounds above your head and neck,
+                        so always use a spotter when lifting heavier, and know your limits when lifting alone.</p></div>
+                        <h3><ul>
+                            <li> <a href="#bench press"> Press</a></li>
+                            <li> <a href="#cable crossover">Cable Crossover</a></li>
+                            <li><a href="#dumbell fly">Dumbbell Fly</a></li>
+                            <li><a href="#push up">Push-Up</a></li>
+                            <li><a href="#dips">Dips</a></li>
+                            <li><a href="#smith">Smith Machine Incline Bench</a></li></ul></h3>
+                            <br> <br> <br> 
+                            <img src="https://wallpapercave.com/wp/wp2356158.jpg" style="background-repeat: no-repeat;background-size: cover;height: 100%;width: 100%;">
+                           
+                            <h2 id="bench press" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);">Bench Press:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                               The be-all-end-all of chest exercises. The foundation of any chest day. The iconic compound lift. We’ll focus on the flat barbell bench press here,
+                                though there are tons of variations, like the incline bench press or bench press with dumbbells.<br>
+           
+                               To start, lay flat on your back, with your feet positioned as far back as they’ll go while still remaining flat on the ground. 
+                               Position yourself under the bar so that your hands sit directly above your elbows when gripping the bar slightly wider than shoulder-width apart. 
+                               Many weightlifters like to position their pinky or ring fingers on the break in the chrome knurling.
+                               Unrack the barbell and breath in as you lower it to your chest, keeping your shoulder blades tight and wrists straight.
+                               Let the bar touch your chest, then breathe out and activate your chest to push up and your legs to help support the movement.
+                               That’s one rep.<br><br>
+                               <a href="https://i.pinimg.com/originals/5b/19/18/5b191878916185659b9f1f12430ca56f.gif" ><img src="bench press(c).jpeg"  style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+                               
+                               
+                               
+                               
+                               As we said, people love to brag about how much they can bench. Consider it a rite of passage in the bodybuilding community.
+                                But don’t let that intimidate you, and more importantly, don’t let that pressure you to lift outside your comfort zone.
+                                 Developing a strong chest takes time, so ensure you’re practicing proper form and gradually increasing the weight during your fitness journey. 
+                                 When you do lift heavier, we highly recommend recruiting a spotter to make sure you can unrack the barbell comfortably, and rescue you in case you gas out during a set.
+                               
+                               
+                            </p>
+                            <h2 id="cable crossover" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);">Cable Crossover:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                               Cable machines are a great tool for strength workouts, as they provide constant tension throughout whichever exercise you’re achieving.
+                                The cable crossover closely mimics the pushing motion of a bench press, but offers more mobility, and (as the name suggests) allows your
+                                 arms to cross at the end of the movement.<br><br>
+                                 <a href="https://i.pinimg.com/originals/b1/43/ea/b143ea5e3d0d6d595307c7451d98657a.gif"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXnN8-0C0_hEI8lEn6laLuKtQuVmOVlgzgg&usqp=CAU" style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+           
+                               To start, set the pulleys of a cable machine to their highest possible position.
+                                With your feet staggered, stand in the center of the two cables.
+                                 With your arms extended, grab one handle in each hand, and positioning your body forward so you feel a slight stretch in your arms.
+                                  Keep your elbows slightly bend, and bring your arms forward, crossing your hands as you complete the movement. 
+                                  Return your hands to the starting position, ensuring you keep them controlled and feel a constant tension.  
+                           </p>
+           
+           
+                            <h2 id="dumbell fly" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);">Dumbbell Fly:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                               As you’ve probably gathered by now, chest exercises mostly follow either a push or fly movement. The variations, then, come in which angles and equipment you use.
+                                Dumbbells allow your arms to move independently of one another, helping to develop grip strength as you keep the weights controlled throughout the exercise.<br><br>
+           
+                               Lay on a flat bench (or at the angle of your choice, for a variation), with your arms extended above your chest and dumbbells parallel with your body. 
+                               If you’re using heavy weights, you can have a spotter hand you the dumbbells once you’re in position. Keeping your elbows slightly bent, inhale and 
+                               lower the dumbbells so your arms are parallel with the ground, making sure to not extend the weights past your shoulders. Exhale and bring them back to the starting position.<br>
+                             <br> <a href="https://i.pinimg.com/originals/ff/92/b4/ff92b4cf397618005f6d23dc9f993d7a.gif"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSISvUc8q-3ohH8H8HS2Ai1WpLj9VGU-FKhAQ&usqp=CAU" style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+                               
+                               <br>Form is paramount here. Make sure you use a comfortable weight, keep your elbows fixed throughout the exercise and ensure your shoulders don’t get overextended,
+                                as these can all minimize the exercise’s effectiveness and lead to injury.</p>
+                                <img src="https://fsb.zobj.net/crop.php?r=G24u9PKldAEUV_ntTQicqgUIGx_-NjP-Cq5uVE4_tQcYHuNGynPRHjIGoXC-ZejBqz-W--a3g4EKOZIWE7UcbVLycxhnHt6L6tYzKv-K0VzMtYRoi9zw9IIGR02ojJCXfwr8rlwYVCKHRQOZ" style="background-repeat: no-repeat;background-size: cover;margin-left: 300px;">
+                           
+           
+           
+                               
+                            <h2 id="push up" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);">Push-Up:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                               Since the best chest exercises are all centered around the “push” motion, it’s no surprise to see the tried-and-true push-up here. As simple as exercises come,
+                                the push-up is great for building chest strength, but it also engages your arms, back and core when done properly.<br><br>
+           
+                               Position yourself in a high plank to form the top of a pushup position, with your palms flat and hands shoulder-width apart.
+                                The key is to keep your body in a straight line, making sure to engage your core throughout the movement. Lower body to the floor,
+                                 until your chest touches the ground, then press upwards to return to the starting position.<br>
+                                <br> <a href="https://media.tenor.com/images/58cc0c7477ea44689ccadb511217f00a/tenor.gif"><img src="push up(c).jpeg" style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+                               
+                               <br>While push-ups are great and simple, all you’ve got is your bodyweight, so it’s easy to plateau if push-ups are your only chest or upper-body exercise.
+                                For added difficulty, you can have a friend or roommate place books on your back. 
+                                Try an angled variation with your feet elevated on a chair or table to really target your upper chest.  </p>
+           
+           
+                            <h2 id="dips" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);"> Dips:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                               Dips are another equipment-free, bodyweight exercise you can do to strengthen your upper body.
+                                Though you might feel it most in your triceps, dips offer a great burn in your chest as well.<br><br>
+                               <a href="https://365musclefitness.com/wp-content/uploads/2020/07/parallel-bar-Dips.gif"> <img src="https://image.shutterstock.com/image-photo/young-muscular-man-during-workout-260nw-336330482.jpg" style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+           
+                               To perform dips at home, look for any strong surface that’s elevated from the ground. You can place two sturdy chairs next to each other, 
+                               a bit wider than your shoulder width apart. Placing your hands on the seat of each chair, extend your arms to suspend your body above them.
+                                Bring yourself down by slowing bending your elbows.<br></p>
+           
+           
+                            <h2 id="smith" style="background-color: rgb(245, 234, 217);color: rgb(94, 35, 142);">Smith Machine Incline Bench:</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left:50px;">
+                               The Smith machine features a barbell fixed on steel rails, allowing you to comfortably lift more weight than you might be able to on a regular barbell
+                                since you don’t have to worry about balancing the weight yourself. This is also a useful tool if you’re working out alone and don’t have a spotter,
+                                 as the Smith machine also features a set of hooks to re-rack the barbell at any height, requiring only a simple turn to secure. 
+                                 Incline bench exercises help engage the upper chest and shoulders, making them a great addition to a dynamic chest workout.<br><br>
+           
+                                <a href="https://i.gifer.com/PHXY.gif"> <img src="smith(c).jpeg" style="margin-left:400px;border-color:rgb(245, 234, 217) ;" border="2"></a><br><br>
+                                 Sit on an adjustable workout bench positioned at 45 degrees underneath the Smith machine, with the barbell racked so you can reach it with your arms bent.
+                                Twist the bar to unrack, breath in and lower it to your chest, breathing out as you push it back up.
+                           </p>   
+        
+
+
+
+
+
+    </BODY>
+</html>

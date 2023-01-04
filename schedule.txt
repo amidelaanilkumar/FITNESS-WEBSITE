@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>schedule</title>
+    </head>
+    <body style="background-image: url(backg1.jpg) ;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
+       
+        <br><br>
+        
+    
+    <table cellpadding="" cellspacing="10" style="margin-left: 100px;border-color:black;size: 40px;">
+        <tr><td><a href="chest.html" target="_blank"><img src="mon icon.jpg"></a></td>
+        <td align="left" valign="bottom" ><a href="chest.html" target="_blank"style="text-decoration: none;" ><div style="font-family:inherit;color:rgb(240, 212, 190);font-size: 25px;text-decoration: none;">MONDAY</div></a></td></tr>
+        <tr><td><a href="bicep.html" target="_blank"><img src="tue icon.jpg"></a></td>
+        <td align="left" valign="bottom" ><a href="bicep.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: rgb(240, 212, 190);font-size: 25px;">TUESDAY</div></a></td></tr>
+        <tr><td><a href="tricep.html" target="_blank"><img src="wed icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="tricep.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: rgb(240, 212, 190);font-size: 25px;">WEDNESDAY</div></a></td></tr>
+        <tr><td><a href="back.html" target="_blank"><img src="thru icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="back.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: rgb(240, 212, 190);font-size: 25px;">THURSDAY</div></a></td></tr>
+        <tr><td><a href="shoulder.html" target="_blank"><img src="fri icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="shoulder.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: rgb(240, 212, 190);font-size: 25px;">FRIDAY</div></a></td></tr>
+        <tr><td><a href="legs.html" target="_blank"><img src="sat icon.jpeg"></a></td>
+        <td align="left" valign="bottom"><a href="legs.html" target="_blank" style="text-decoration: none;"><div style="font-family:inherit;color: rgb(240, 212, 190);font-size: 25px; "> SATURDAY</div></a></td></tr>
+    </table>
+    <a href="area.html" style="text-decoration: none;"><div style="margin-left:950px;color: rgb(197, 152, 135);font-family:'Times New Roman', Times, serif;font-size: 25px;">Know from Image</div></a>
+    </body>
+   
+    
+</html>

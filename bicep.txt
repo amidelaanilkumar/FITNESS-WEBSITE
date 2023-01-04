@@ -1,0 +1,81 @@
+<html>
+    <head><title>BICEP</title></head>
+    <body>
+        <h1 style="background-color:black;color:cornsilk;"><center>BICEP</center></h1>
+        <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 25px;">
+            When starting on a muscle-building program, one of the key body parts that many people want to place a large focus on are the biceps.
+            The biceps tend to be a highly noticed muscle group by others, so if you have nicely developed arms, 
+            people are going to know you're on top of your workout game.<br><br>
+            </p>
+            <img src="https://wallpapercave.com/wp/wp3149547.jpg" style="background-size: cover;background-repeat: no-repeat;height: 100%;width: 100%;">
+
+            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                    margin-left: 50px;text-align: left;">
+            It is important to keep in mind that in actuality the triceps muscle comprises a very large component of the arm, so you must not neglect your triceps work either, 
+            which will then give you the perfect balance of what you need to see optimal results.<br><br>
+            When you are aiming for maximum size, another important point to note is that lifting heavy must be placed as a priority.
+            Since building more size is a combination of a heavy surplus, enough volume, and plenty of calories, it's a wise decision
+            to focus on exercises that will allow you to lift the heaviest weight possible.<br><br>
+            Usually for most people this will be exercises such as rows and lat-pulldowns,
+            both of which target the biceps muscles as well. If you are including these regularly with your
+            workout program and then adding in other exercises that are specifically targeted towards the biceps muscles 
+            you will be right on track for developing the best arms you can.</p>
+            <h1 style="background-color:black;color:cornsilk;"><center>The Best bicep Exercises </center></h1>
+            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+                They may not be the biggest or the strongest muscle group in your body, but your biceps are arguably the best "show" muscles.
+    
+    Functionally, the biceps muscle is pretty straightforward—it flexes the elbow—yet humankind has come a long way since the days of hoisting a club. These days, we don't just want our biceps to work, we want them to represent!
+    
+    Today, there is a dizzying number of exercises to bring out every vein, bulge, and peak in your biceps muscle, and there are very few people who don't incorporate at least one or two of these into their workout.</div>
+    <h3><ul>
+        <li> <a href="#barell bicep curls">Barbell bicep curls</a></li>
+        <li> <a href="#incline dumbbell curls">Incline dumbell curls</a></li>
+        <li><a href="#cable curls">Cable curls</a></li>
+        <li><a href="#reverse grip">Reverse grip</a></li>
+        <li><a href="#concentration curls">Concentration curls</a></li>
+        </ul></h3>
+        <br> <br> <br> 
+        <img src="https://wallpapercave.com/wp/wp2639540.jpg" style="background-size:cover;background-repeat: no-repeat;height: 100%;width: 100%;">
+    
+    
+            <h2 id="barell bicep curls" style="background-color: rgb(230, 235, 211);color: rgb(94, 35, 142);">Barbell bicep curls:</h2>
+           <a href="https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/ez-bar-curl.gif?resize=480:*"> <img src="barbell curls(b).jpeg" style="margin-left:400px; border-color:rgb(230, 235, 211) ;" border="2"></a>
+            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                The first biceps exercise to perform is barbell biceps curls, which will also allow you to overload those biceps with a heavy weight. Most trainees are slightly stronger when lifting a barbell versus a set of dumbbells, so this is a great one for maximum strength development.
+                When doing the exercise, the primary thing to focus on is that you're not cutting the movement pattern short at all, and that you're not allowing momentum to cause you to lean backward as you hoist the weight upwards.
+                This is one of the most common mistakes with this exercise—momentum performs more of the work than your muscles actually do. If you perform it in a slow and controlled manner, that should reduce the chances of this happening significantly and allow you to place a higher intensity deep within the muscle fibers.
+                    
+            </p>
+            <h2 id="incline dumbbell curls" style="background-color: rgb(230, 235, 211);color: rgb(94, 35, 142);">Incline dumbell curls:</h2>
+           <a href="https://www.gymguider.com/wp-content/uploads/2017/10/Incline-Dumbbell-Curl.gif"> <img src="incline dumbell curls(b).jpeg" style="margin-left:400px;border-color:rgb(230, 235, 211) ;" border="2"></a>
+                     <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                        The second exercise to add is incline dumbbell curls. This exercise is one of the best to help prevent that momentum issue from happening as we just discussed, since it essentially restricts the movement of the back.
+                        When doing this exercise, you will feel maximum tension on the biceps muscle belly, so don't be surprised if the weight is slightly lower. As long as you're pushing yourself hard, using the lower weight but maintaining proper form will be the way to go for results.
+                        </p>
+                     <h2 id="cable curls" style="background-color: rgb(230, 235, 211);color: rgb(94, 35, 142);">Cable curls:</h2>
+                    <a href="https://workouts4fitness.files.wordpress.com/2017/09/cable-curls.gif"> <img src="https://image.shutterstock.com/image-photo/bodybuilding-workout-gym-bodybuilder-lifting-260nw-1641287470.jpg"style="margin-left:400px;border-color:rgb(230, 235, 211) ;" border="2"></a>
+                     <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                        If you're looking to target the deep-tissue muscle fibers, cable curls are a good bet. Since the pattern of movement is less stable with this movement, due to the constant tension provided by the cable, you will call all the stabilization muscles surrounding the biceps into play as you execute the exercise.
+                        You can use a variety of different attachments to perform the cable curls including a rope, a straight bar, or rotating cable handles that allow you to work a single arm at a time.
+                         
+                    </p>
+                    <img src="https://wallpapercave.com/wp/wp2483045.jpg" style="background-size:cover;background-repeat: no-repeat;height: 100%;width: 100%;">
+    
+                     <h2 id="reverse grip" style="background-color: rgb(230, 235, 211);color: rgb(94, 35, 142);">Reverse grip:</h2>
+                     <a href="https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/reversecurlgif.gif?resize=480:*"><img src="reverse grip(b).jpeg"style="margin-left:400px;border-color:rgb(230, 235, 211) ;" border="2"></a>"
+                     <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                        After you've included regular straight rows within the program, you may also want to consider adding reverse-grip rows as well. These are going to place a slightly greater stress on the biceps muscles as opposed to straight rows, so they will be a better exercise for strictly targeting the biceps.
+                        Depending on what muscle group you think of contracting as you bring the weights up to the body (the biceps or the back), that too will impact the nature of the muscle stimulus.
+                        
+                    </p>
+                     <h2 id="concentration curls" style="background-color: rgb(230, 235, 211);color: rgb(94, 35, 142);">Concentration curls:</h2>
+                     <img src="concentration curls(b).jpeg" style="margin-left:400px;border-color:rgb(230, 235, 211) ;" border="2">
+                     <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;margin-left: 50px;">
+                        Finally, the last of the exercises to consider to blast your biceps into growth are concentration curls. When done while sitting, these will also limit the degree momentum plays in the execution of the exercise and place all the emphasis right on the biceps muscl
+                        There will be no helper muscles called into play when doing concentration curls (when done properly), so this is a good one to add in at the very end of your workout when you're really looking to finish off the biceps and fully exhaust them.
+                        
+                        
+                    </p>
+            
+    </body>
+</html>

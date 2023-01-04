@@ -1,0 +1,25 @@
+<html>
+    <head><title>Know from Image
+    </title></head>
+    <body style="background-color:black;">
+        <br><br><br>
+        <table >
+            <td>
+                <tr><img src="area1.jpg" usemap="#area1"></tr>
+                <map name="#area1">
+                <area shape="rect" coords="197,103,336,145" href="chest.html" target="_blank" >
+                <area shape="rect" coords="137,127,158,170" href="bicep.html" target="_blank">
+                <area shape="circle" coords="431,102,20" href="tricep.html" target="_blank"></map>
+                
+                <tr><img src="area2.jpg" usemap="#area2"></tr>
+                <map name="#area2">
+                    <area shape="rect" coords="249,65,425,109" href="shoulder.html" target="_blank">
+                    <area shape="rect" coords="281,146,387,263" href="back.html" target="_blank">
+                    <area shape="circle" coords="225,154,15" href="tricep.html" target="_blank">
+                    <area shape="circle" coords="461,145,15" href="tricep.html" target="_blank">
+                </map>
+            </td>
+        </table><br><br>
+        <div style="margin-left: 400px; font-size:20px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;color: rgb(221, 238, 204);">Click on the bodypart that you wish to know</div>
+    </body>
+</html>
